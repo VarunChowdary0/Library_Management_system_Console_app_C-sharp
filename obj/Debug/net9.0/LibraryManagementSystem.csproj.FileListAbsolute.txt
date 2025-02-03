@@ -12,3 +12,4 @@ C:\PROGRAMS\DOTNET\Projects\LibraryManagementSystem\obj\Debug\net9.0\refint\Libr
 C:\PROGRAMS\DOTNET\Projects\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.pdb
 C:\PROGRAMS\DOTNET\Projects\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.genruntimeconfig.cache
 C:\PROGRAMS\DOTNET\Projects\LibraryManagementSystem\obj\Debug\net9.0\ref\LibraryManagementSystem.dll
+C:\PROGRAMS\DOTNET\Projects\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.sourcelink.json

@@ -356,7 +356,17 @@ class Program
                               "\n7. Student Book transaction" +
                               "\n8. Pending Books" +
                               "\n9. Exit");
-            int input = takeInt("Enter option: ");
+            int input = 5;
+            try
+            {
+                input = takeInt("Enter option: ");
+            }
+            catch (FormatException)
+            {
+                Console.Clear();
+                Console.WriteLine("Please enter a valid option");
+                continue;
+            }
 
             switch (input)
             {
